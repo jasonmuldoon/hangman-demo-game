@@ -1,2 +1,2 @@
-# hangman-demo-game
-hangman game
+# word-guess-game
+word guess game
